@@ -6,7 +6,7 @@ def mimatmul(A,B):
     C = np.zeros(matriz)
     
     for i in range(len(A)): 
-        for j in range(len(B[0])):
-            for h in range(len(B)):
-                C[i][h]+= A[i][j]*B[j][h]
+        for j in range(len(B[])):
+            for k in range(len(B)):
+                C[i][k]+= A[i][j]*B[j][k]
     return C                
