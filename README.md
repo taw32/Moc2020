@@ -8,4 +8,8 @@ Graficos
 SSD	128 GB
 
 
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+Desempeño Matmul
+Gráfico de desempeño
+
 
